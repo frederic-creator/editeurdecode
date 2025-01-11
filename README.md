@@ -1,3 +1,5 @@
+éditeur de code avec prévisualisation du résultat no-code-app
+et possibilité d'enregistrer les fichiers en JS, CSS et HTML directement sur l'ordinateur. Grâce à cet outil, on peut travailler sur des fichiers creer par ChatGPT ou Claude
 # Éditeur de Code Web
 
 ## Prérequis
